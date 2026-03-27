@@ -20,10 +20,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-03-26T00:56:45Z",
+            "last_commit": "2026-03-27T00:56:38Z",
             "owner": "SeleniumHQ",
             "repo": "selenium",
-            "stars": 34177
+            "stars": 34183
           }
         },
         {
@@ -49,7 +49,7 @@
             "last_commit": "2026-03-23T16:04:34Z",
             "owner": "webdriverio",
             "repo": "webdriverio",
-            "stars": 9751
+            "stars": 9753
           }
         }
       ],
@@ -94,7 +94,7 @@
             "last_commit": "2024-09-07T22:39:52Z",
             "owner": "garris",
             "repo": "BackstopJS",
-            "stars": 7118
+            "stars": 7119
           }
         },
         {
@@ -132,7 +132,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-03-26T00:03:20Z",
+            "last_commit": "2026-03-26T22:56:29Z",
             "owner": "codeceptjs",
             "repo": "CodeceptJS",
             "stars": 4221
@@ -275,10 +275,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-03-25T22:45:55Z",
+            "last_commit": "2026-03-26T23:46:23Z",
             "owner": "americanexpress",
             "repo": "jest-image-snapshot",
-            "stars": 3909
+            "stars": 3910
           }
         },
         {
@@ -410,10 +410,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-26T01:47:49Z",
+            "last_commit": "2026-03-27T02:53:05Z",
             "owner": "microsoft",
             "repo": "playwright",
-            "stars": 85005
+            "stars": 85066
           }
         },
         {
@@ -436,10 +436,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-25T23:06:51Z",
+            "last_commit": "2026-03-26T15:17:26Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 93938
+            "stars": 93947
           }
         },
         {
@@ -467,7 +467,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-16T07:44:06Z",
+            "last_commit": "2026-03-27T02:16:20Z",
             "owner": "reg-viz",
             "repo": "reg-suit",
             "stars": 1255
@@ -493,7 +493,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-03-25T16:00:56Z",
+            "last_commit": "2026-03-26T16:30:47Z",
             "owner": "selenide",
             "repo": "selenide",
             "stars": 1910
@@ -548,7 +548,7 @@
             "last_commit": "2026-03-25T22:26:34Z",
             "owner": "DevExpress",
             "repo": "testcafe",
-            "stars": 9918
+            "stars": 9917
           }
         },
         {
@@ -659,10 +659,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-03-26T00:56:45Z",
+            "last_commit": "2026-03-27T00:56:38Z",
             "owner": "SeleniumHQ",
             "repo": "selenium",
-            "stars": 34177
+            "stars": 34183
           }
         },
         {
@@ -775,7 +775,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-25T22:25:14Z",
+            "last_commit": "2026-03-26T19:52:16Z",
             "owner": "sherlo-io",
             "repo": "sherlo",
             "stars": 76
@@ -798,7 +798,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-03-26T00:26:36Z",
+            "last_commit": "2026-03-27T00:58:29Z",
             "owner": "testomatio",
             "repo": "reporter",
             "stars": 145
@@ -1094,7 +1094,7 @@
             "last_commit": "2022-11-26T19:43:12Z",
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29482
+            "stars": 29481
           }
         },
         {
@@ -1161,7 +1161,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-26T04:35:23.310Z",
+    "last_updated": "2026-03-27T04:36:13.463Z",
     "original_repository": "mojoaxel/awesome-regression-testing",
     "source_repository": "v1nvn/enhansome-regression-testing",
     "source_repository_description": null,
