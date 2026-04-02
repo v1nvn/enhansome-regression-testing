@@ -20,10 +20,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-01T00:26:57Z",
+            "last_commit": "2026-04-02T00:54:37Z",
             "owner": "SeleniumHQ",
             "repo": "selenium",
-            "stars": 34170
+            "stars": 34179
           }
         },
         {
@@ -94,7 +94,7 @@
             "last_commit": "2024-09-07T22:39:52Z",
             "owner": "garris",
             "repo": "BackstopJS",
-            "stars": 7116
+            "stars": 7117
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-04-01T00:24:22Z",
             "owner": "codeceptjs",
             "repo": "CodeceptJS",
-            "stars": 4221
+            "stars": 4220
           }
         },
         {
@@ -148,7 +148,7 @@
             "last_commit": "2026-02-12T07:24:29Z",
             "owner": "creevey",
             "repo": "creevey",
-            "stars": 424
+            "stars": 425
           }
         },
         {
@@ -278,7 +278,7 @@
             "last_commit": "2026-03-26T23:46:23Z",
             "owner": "americanexpress",
             "repo": "jest-image-snapshot",
-            "stars": 3909
+            "stars": 3908
           }
         },
         {
@@ -332,7 +332,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-04-01T01:29:08Z",
+            "last_commit": "2026-04-01T20:54:53Z",
             "owner": "lost-pixel",
             "repo": "lost-pixel",
             "stars": 1653
@@ -374,7 +374,7 @@
             "last_commit": "2024-04-20T17:54:13Z",
             "owner": "segment-boneyard",
             "repo": "nightmare",
-            "stars": 19940
+            "stars": 19939
           }
         },
         {
@@ -384,7 +384,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-02-13T13:24:34Z",
+            "last_commit": "2026-04-01T11:11:44Z",
             "owner": "nightwatchjs",
             "repo": "nightwatch",
             "stars": 11948
@@ -410,10 +410,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-04-01T01:02:41Z",
+            "last_commit": "2026-04-02T02:36:49Z",
             "owner": "microsoft",
             "repo": "playwright",
-            "stars": 85378
+            "stars": 85431
           }
         },
         {
@@ -436,10 +436,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-31T15:16:48Z",
+            "last_commit": "2026-04-01T17:36:09Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 93986
+            "stars": 94000
           }
         },
         {
@@ -454,7 +454,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-03-27T15:15:57Z",
+            "last_commit": "2026-04-01T18:37:36Z",
             "owner": "reg-viz",
             "repo": "reg-cli",
             "stars": 400
@@ -467,7 +467,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-04-01T00:39:21Z",
+            "last_commit": "2026-04-01T17:36:45Z",
             "owner": "reg-viz",
             "repo": "reg-suit",
             "stars": 1256
@@ -483,7 +483,7 @@
             "last_commit": "2024-02-06T21:57:14Z",
             "owner": "rsmbl",
             "repo": "Resemble.js",
-            "stars": 4610
+            "stars": 4609
           }
         },
         {
@@ -493,7 +493,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-03-27T12:28:17Z",
+            "last_commit": "2026-04-01T06:48:18Z",
             "owner": "selenide",
             "repo": "selenide",
             "stars": 1909
@@ -545,10 +545,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-03-29T16:24:12Z",
+            "last_commit": "2026-04-02T04:25:10Z",
             "owner": "DevExpress",
             "repo": "testcafe",
-            "stars": 9916
+            "stars": 9917
           }
         },
         {
@@ -659,10 +659,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-01T00:26:57Z",
+            "last_commit": "2026-04-02T00:54:37Z",
             "owner": "SeleniumHQ",
             "repo": "selenium",
-            "stars": 34170
+            "stars": 34179
           }
         },
         {
@@ -775,7 +775,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-31T19:09:29Z",
+            "last_commit": "2026-04-01T22:49:57Z",
             "owner": "sherlo-io",
             "repo": "sherlo",
             "stars": 76
@@ -980,7 +980,7 @@
             "last_commit": "2020-04-03T21:57:20Z",
             "owner": "casperjs",
             "repo": "casperjs",
-            "stars": 7177
+            "stars": 7176
           }
         },
         {
@@ -993,7 +993,7 @@
             "last_commit": "2018-11-13T02:23:55Z",
             "owner": "schickling",
             "repo": "chromeless",
-            "stars": 13241
+            "stars": 13240
           }
         },
         {
@@ -1094,7 +1094,7 @@
             "last_commit": "2022-11-26T19:43:12Z",
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29476
+            "stars": 29475
           }
         },
         {
@@ -1161,7 +1161,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-01T04:49:23.436Z",
+    "last_updated": "2026-04-02T04:32:13.796Z",
     "original_repository": "mojoaxel/awesome-regression-testing",
     "source_repository": "v1nvn/enhansome-regression-testing",
     "source_repository_description": null,
